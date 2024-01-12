@@ -3,7 +3,7 @@
 ## Course Information
 - **Course Code:** CSN14403
 - **Course Title:** Artificial Intelligence
-- **Instructor:** Dr. Shashank
+- **Instructor:** Dr. Shashank Srivastava
 
 
 ## Acknowledgments
